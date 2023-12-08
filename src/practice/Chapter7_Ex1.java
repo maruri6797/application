@@ -17,5 +17,6 @@ public class Chapter7_Ex1 {
 					return x.compareTo(y);
 				}
 			});
+		System.out.println(animals);
 	}
 }
